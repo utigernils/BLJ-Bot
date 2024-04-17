@@ -44,10 +44,6 @@ BLJ-Admin supports the following commands:
 - **GIF Reminder**: When a gif is sent in a channel where gifs are blocked, BLJ-Admin reminds the user who sent the gif via direct message.
 - **Order System**: The authorized individuals also get access to view the balance of everyone and order reminders via direct message.
 
-## License
-
-[License information is still missing]
-
 ## Contributing
 
 Contributions to BLJ-Admin are welcome! Feel free to fork this repository and submit pull requests for enhancements or bug fixes.
